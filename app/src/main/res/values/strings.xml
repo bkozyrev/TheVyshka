@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TheVyshka</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="sample_text">
+        1. Устройство современной ракетной и космической техники.
+        Рассказ о том, как летают ракеты и спутники и о том, как их делают. В лекции на конкретных примерах будет рассмотрено устройство современных ракет и космических аппаратов.\n\n
+
+        2. Мировая частная космонавтика
+        На лекции о мировой частной космонавтике из первых уст Вы узнаете о развитии так называемого Нового космоса, мировой негосударственной космической индустрии.
+        Лектор – Александр Шаенко, принимал участие в разработке и испытаниях одного из первых частных космических аппаратов DX1 компании Dauria Aerospace.</string>
+    <string name="meeting">Мероприятия</string>
+    <string name="my_meeting">Мои мероприятия</string>
+    <string name="campus">Корпуса</string>
+    <string name="personal_area">Личный кабинет</string>
+    <string name="science">Наука</string>
+    <string name="create_meeting">Создать мероприятие</string>
+</resources>
